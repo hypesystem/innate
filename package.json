@@ -6,6 +6,11 @@
   "scripts": {
     "test": "tap"
   },
+  "files": [
+    "index.d.ts",
+    "index.js",
+    "README.md"
+  ],
   "types": "./index.d.ts",
   "name": "innate",
   "description": "innate---a better way to bind",
