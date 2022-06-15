@@ -1,0 +1,32 @@
+{
+  "devDependencies": {
+    "tap": "^16.2.0"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "tap"
+  },
+  "types": "./index.d.ts",
+  "name": "innate",
+  "description": "innate---a better way to bind",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hypesystem/innate.git"
+  },
+  "keywords": [
+    "bind",
+    "function",
+    "helper"
+  ],
+  "author": "Niels Abildgaard <niels@deranged.dk>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hypesystem/innate/issues"
+  },
+  "homepage": "https://github.com/hypesystem/innate#readme"
+}
